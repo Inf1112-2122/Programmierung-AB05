@@ -54,12 +54,7 @@ fun legeMehrereAb(anzahl: Int) {
     }
 }
 
-fun main() {
-    starteAddierenSpiel(0)
-
-    laufeZurNaechstenWand()
-    dreheUm()
-
+fun berechneSumme(): Int {
     var summe: Int = 0
 
     while (istRechtsVonDirFrei()) {
@@ -70,18 +65,34 @@ fun main() {
         dreheUm()
     }
 
-    dreheNachLinks()
-    laufeZurNaechstenWand()
-    dreheNachRechts()
+    return summe
+}
 
-    while (summe > 0 && istVorDirFrei()) {
-        val ziffer: Int = summe % 10
-        summe /= 10
+fun legeZahlMitKoernern(zahl: Int) {
+    var rest: Int = zahl
+
+    while (rest > 0 && istVorDirFrei()) {
+        val ziffer: Int = rest % 10
+        rest /= 10
 
         legeMehrereAb(ziffer)
         laufe()
     }
-    legeMehrereAb(summe % 10)
+    legeMehrereAb(rest % 10)
+}
+
+fun main() {
+    starteAddierenSpiel(0)
+
+    laufeZurNaechstenWand()
+    dreheUm()
+
+    val summe: Int = berechneSumme()
+
+    dreheNachLinks()
+    laufeZurNaechstenWand()
+    dreheNachRechts()
+    legeZahlMitKoernern(summe)
 
     stoppeSpiel()
 }
