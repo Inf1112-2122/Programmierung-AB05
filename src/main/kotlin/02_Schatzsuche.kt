@@ -1,7 +1,7 @@
 import de.github.dudrie.hamster.imperative.de.*
 
 fun main() {
-    starteSchatzsucheSpiel(1)
+    starteSchatzsucheSpiel(0)
 
     /**
      * Die Blickrichtung des Hamsters.

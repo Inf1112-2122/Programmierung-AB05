@@ -12,10 +12,29 @@ fun dreheNachRechts() {
     }
 }
 
+fun laufeZurNaechstenWand() {
+    while (istVorDirFrei()) {
+        laufe()
+    }
+}
+
 fun laufeMehrfach(anzahl: Int) {
     repeat(anzahl) {
         laufe()
     }
+}
+
+fun liegtVorDirEinKorn(): Boolean {
+    if (!istVorDirFrei()) {
+        return false
+    }
+    laufe()
+    val istKornDa: Boolean = liegtEinKornAufDeinemFeld()
+
+    dreheUm()
+    laufe()
+    dreheUm()
+    return istKornDa
 }
 
 fun zaehleKoernerImMund(): Int {

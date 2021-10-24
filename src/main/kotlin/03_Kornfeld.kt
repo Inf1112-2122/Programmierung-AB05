@@ -21,19 +21,6 @@ fun bestimmeHoehe(): Int {
     return bestimmeBreite()
 }
 
-fun liegtVorDirEinKorn(): Boolean {
-    if (!istVorDirFrei()) {
-        return false
-    }
-    laufe()
-    val istKornDa: Boolean = liegtEinKornAufDeinemFeld()
-
-    dreheUm()
-    laufe()
-    dreheUm()
-    return istKornDa
-}
-
 fun graseFeldAb(breite: Int, hoehe: Int) {
     var nochAbzugrasendeSpalten: Int = breite
     while (nochAbzugrasendeSpalten > 0) {
@@ -60,7 +47,7 @@ fun graseSpalteAbUndZurueck(hoehe: Int) {
 }
 
 fun main() {
-    starteKornfeldSpiel(2)
+    starteKornfeldSpiel(0)
 
     val breite: Int = bestimmeBreite()
     dreheNachLinks()

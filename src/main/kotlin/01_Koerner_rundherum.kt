@@ -54,7 +54,7 @@ fun legeKoernerAmRandAb() {
 }
 
 fun main() {
-    starteKornAnRandSpiel(2)
+    starteKornAnRandSpiel(0)
 
     laufeInNaechsteEcke()
     val breite: Int = ermittleLaenge()

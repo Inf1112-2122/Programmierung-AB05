@@ -21,6 +21,13 @@ fun starteKornfeldSpiel(spielNummer: Int) {
     }, spielNummer)
 }
 
+fun starteKornspurSpiel(spielNummer: Int) {
+    starteSpielAusSpielMenge(object : SpielMenge {
+        override val spielPrefix: String = "kornspur"
+        override val interval: IntRange = 0..2
+    }, spielNummer)
+}
+
 fun starteRauteZeichnenSpiel(spielNummer: Int) {
     starteSpielAusSpielMenge(object : SpielMenge {
         override val spielPrefix: String = "raute_zeichnen"
