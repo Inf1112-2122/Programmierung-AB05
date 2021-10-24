@@ -1,0 +1,1907 @@
+{
+  "territorySize": {
+    "columnCount": 15,
+    "rowCount": 15
+  },
+  "initialHamster": {
+    "location": {
+      "column": 13,
+      "row": 2
+    },
+    "direction": "West",
+    "grainCount": 0
+  },
+  "tileToMeterScaling": 0.25,
+  "specialTiles": [
+    [
+      {
+        "column": 0,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 1,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 1,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 3,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 3,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 4,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 4,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 5,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 5,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 6,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 6,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 8,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 8,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 10,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 10,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 13,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 13,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 0
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 0
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 3,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 3,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 4,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 4,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 5,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 5,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 10,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 10,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 13,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 13,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 1
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 1
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 2
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 2
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 2
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 2
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 8,
+        "row": 2
+      },
+      {
+        "location": {
+          "column": 8,
+          "row": 2
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 2
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 2
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 10,
+        "row": 2
+      },
+      {
+        "location": {
+          "column": 10,
+          "row": 2
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 2
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 2
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 2
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 2
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 2
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 2
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 3
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 3
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 3
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 3
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 3
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 3
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 3
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 3
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 13,
+        "row": 3
+      },
+      {
+        "location": {
+          "column": 13,
+          "row": 3
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 3
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 3
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 4
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 4
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 3,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 3,
+          "row": 4
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 4,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 4,
+          "row": 4
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 5,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 5,
+          "row": 4
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 4
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 4
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 13,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 13,
+          "row": 4
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 4
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 4
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 5
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 5
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 5
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 5
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 5
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 5
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 8,
+        "row": 5
+      },
+      {
+        "location": {
+          "column": 8,
+          "row": 5
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 5
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 5
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 13,
+        "row": 5
+      },
+      {
+        "location": {
+          "column": 13,
+          "row": 5
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 5
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 5
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 6
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 6
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 6
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 6
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 6
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 6
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 6
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 6
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 5,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 5,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 6,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 6,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 8,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 8,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 7
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 10,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 10,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 7
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 7
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 8
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 8
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 8
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 8
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 10,
+        "row": 8
+      },
+      {
+        "location": {
+          "column": 10,
+          "row": 8
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 8
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 8
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 8
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 8
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 9
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 9
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 1,
+        "row": 9
+      },
+      {
+        "location": {
+          "column": 1,
+          "row": 9
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 9
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 9
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 3,
+        "row": 9
+      },
+      {
+        "location": {
+          "column": 3,
+          "row": 9
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 9
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 9
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 9
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 9
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 10
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 10
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 3,
+        "row": 10
+      },
+      {
+        "location": {
+          "column": 3,
+          "row": 10
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 10
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 10
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 10
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 10
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 10
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 10
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 11
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 11
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 11
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 11
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 11
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 11
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 11
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 11
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 12
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 3,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 3,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 4,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 4,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 5,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 5,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 6,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 6,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 8,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 8,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 10,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 10,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 12
+        },
+        "tileType": "Floor",
+        "grainCount": 1,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 12
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 12
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 12
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 13
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 13
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 1,
+        "row": 13
+      },
+      {
+        "location": {
+          "column": 1,
+          "row": 13
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 13
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 13
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 6,
+        "row": 13
+      },
+      {
+        "location": {
+          "column": 6,
+          "row": 13
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 13
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 13
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 8,
+        "row": 13
+      },
+      {
+        "location": {
+          "column": 8,
+          "row": 13
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 13
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 13
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 13
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 13
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 0,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 0,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 1,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 1,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 2,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 2,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 3,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 3,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 4,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 4,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 5,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 5,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 6,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 6,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 7,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 7,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 8,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 8,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 9,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 9,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 10,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 10,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 11,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 11,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 12,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 12,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 13,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 13,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ],
+    [
+      {
+        "column": 14,
+        "row": 14
+      },
+      {
+        "location": {
+          "column": 14,
+          "row": 14
+        },
+        "tileType": "Wall",
+        "grainCount": 0,
+        "hideGrainCount": false
+      }
+    ]
+  ]
+}
